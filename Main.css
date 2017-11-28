@@ -1,0 +1,43 @@
+.Square{
+
+	height: 50px;
+	width: 50px;
+	text-align: center;
+	width: 500px;
+	font-size: 15pt;
+	font-family: sans-serif;
+
+
+}
+
+table{
+
+	text-align: center;
+
+
+}
+
+#message{
+	padding: 12px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+body{
+	width: 550px;
+	margin: auto;
+	background-color: #dee8f7;
+}
+h1
+
+{
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#clear{
+	color: black;
+	text-align: center;
+	font-family: sans-serif;
+	text-decoration: none;
+}
